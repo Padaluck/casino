@@ -1,0 +1,24 @@
+_trial_temp
+nosetests.xml
+results.xml
+test.py
+credentials.py
+ve
+raw_data
+
+# Standard Python stuff
+*.egg-info/
+*.py[co]
+.coverage
+__pycache__/
+build/
+dist/
+docs/_build/
+htmlcov/
+venv/
+
+# OS and IDE specific stuff
+*.iml
+.DS_Store
+.idea/
+sftp-config.json
